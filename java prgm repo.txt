@@ -15,6 +15,6 @@ class GFG {
 		float p = f1 * f2;
 
 		// to print the product
-		System.out.println("The product of two numbers are : " + p);
+		System.out.println("product  are : " + p);
 	}
 }
