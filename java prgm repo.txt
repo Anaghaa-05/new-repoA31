@@ -15,6 +15,6 @@ class GFG {
 		float p = f1 * f2;
 
 		// to print the product
-		System.out.println("The product is: " + p);
+		System.out.println(" product : " + p);
 	}
 }
